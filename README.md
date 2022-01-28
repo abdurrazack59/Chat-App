@@ -1,0 +1,3 @@
+# Chat-App
+Chat application build using socket.io and Node.js By Tutor Andrew Mead from Udemy.
+Included OneToOne chat, Room chat, scroll to bottom if user recieves new msg and more...
